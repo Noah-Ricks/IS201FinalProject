@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+h2{
+    font-family: serif;
+    color: black;
+
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.common{
+    font-size: medium;
+}
+.resume-1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: midnightblue;
+}
+.birds-1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.right-align{
+    text-align: right;
+}
+.image-1{
+    position: absolute;
+    top: 0px;
+    right: 50px;
+    width: 25%;
+}
